@@ -1,5 +1,4 @@
 1. Introduction: The notebook demonstrates the use of dropout regularization in a neural network on the Sonar dataset for binary classification (Rocks vs Mines).
-<br>
 2. Data Preprocessing:One-hot encoding for the target variable ('R' → 1, 'M' → 0). Train-test split with train_test_split.
 <br>
 3. Neural Network Models:
